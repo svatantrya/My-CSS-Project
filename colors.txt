@@ -1,0 +1,8 @@
+family=Bai+Jamjuree
+
+#26baa4;
+#6173ff;
+#4c545d;
+#9fabb2;
+#f5f5f5;
+#7a7a7a;
